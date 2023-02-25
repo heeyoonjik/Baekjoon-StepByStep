@@ -1,4 +1,4 @@
-# I solve Baekjoon-StepByStep AND Programmers-LV0 in this repo.
+# 자바로 백준 단계별 문제 풀기
 This is a auto push repository for Baekjoon Online Judge and Programmers created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 ## Baekjoon - StepByStep
